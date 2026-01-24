@@ -31,8 +31,8 @@
 		<maven-shade-plugin.version>2.3</maven-shade-plugin.version>
 
 		<!-- spring -->
-		<spring.boot.version>2.0.2.RELEASE</spring.boot.version>
-		<spring.data.jpa.version>2.0.7.RELEASE</spring.data.jpa.version>
+		<spring.boot.version>3.5.10</spring.boot.version>
+		<spring.data.jpa.version>2.2.0.RELEASE</spring.data.jpa.version>
 		<spring.security.test.version>5.0.5.RELEASE</spring.security.test.version>
 		<spring-cloud-config.version>2.0.4.RELEASE</spring-cloud-config.version>
 
@@ -136,8 +136,8 @@
 		<maven-shade-plugin.version>2.3</maven-shade-plugin.version>
 
 		<!-- spring -->
-		<spring.boot.version>2.0.2.RELEASE</spring.boot.version>
-		<spring.data.jpa.version>2.0.7.RELEASE</spring.data.jpa.version>
+		<spring.boot.version>3.5.10</spring.boot.version>
+		<spring.data.jpa.version>2.2.0.RELEASE</spring.data.jpa.version>
 		<spring.security.test.version>5.0.5.RELEASE</spring.security.test.version>
 		<spring-cloud-config.version>2.0.4.RELEASE</spring-cloud-config.version>
 
